@@ -1,0 +1,8 @@
+# Specify the Python version required
+python>=3.6
+
+# Note: concurrent.futures is part of the Python standard library in Python 3.2 and later.
+# No additional external dependencies are required for this script.
+
+# FFmpeg and Bento4 should be installed separately as they are not Python packages.
+# Please refer to the README.md for installation instructions.
